@@ -67,6 +67,10 @@ Or open any notebook directly in **VS Code** or **[Google Colab](https://colab.r
 
 ---
 
+## License
+
+Released under the [MIT License](LICENSE).
+
 ## 👤 Author
 
 **Awaneesh Gupta** — B.Tech CSE (AI) @ Vedam School of Technology
